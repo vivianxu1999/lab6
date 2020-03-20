@@ -9,6 +9,10 @@
 	color: #CC00AA;
 }
 
+body {
+  background-color: #F2BE3C
+}
+
 .jumbotron {
 	position: relative;
 	background: none;
@@ -27,11 +31,12 @@
 }
 
 .jumbotron p {
-     color: #6e6e6e;
+     color: #319A5B;
 }
 
 .project a {
      text-align: center;
+     color: #319A5B;
 }
 
 .project .details {
